@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">apriest-CountBook</string>
+    <string name="enter_initial_value">Enter Initial Value</string>
+    <string name="enter_comment">Enter Comment</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_current_value">Enter Current Value</string>
+    <string name="name">Name</string>
+    <string name="initial_value">Initial Value</string>
+    <string name="comment">Comment</string>
+    <string name="current_value">Current Value</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
